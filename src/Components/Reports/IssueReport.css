@@ -1,0 +1,86 @@
+.bug-form{
+    background-color: white;
+    width: 100%;
+    padding-top: 15px;
+    /* height: 821px; */
+}
+.input-border{
+    border-bottom: 1px solid #A2A1A81A;
+    border-radius: 0px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    width: 315px;
+    /* margin-top: 20px; */
+    padding-bottom: 25px;
+    /* padding-top: 10px; */
+    padding-left: 22px;
+}
+.label{
+    margin-left: 22px;
+    color: #A2A1A8;
+      
+}
+.bug-description{
+    border-bottom: 1px solid #A2A1A81A;
+    border-radius: 0px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    /* width: 315px; */
+    /* margin-top: 20px; */
+    padding-bottom: 25px;
+    /* padding-top: 10px; */
+    padding-left: 22px;
+}
+.comment-box{
+    width: 100%;
+    background-color: white;
+    padding-top: 3px;
+    margin-top: 20px;
+    padding-left: 20px;
+
+}
+.search-comment{
+    width: 246px;
+    /* height: 499px; */
+    border-radius: 2px;
+    /* border: 1px solid  #D9D9D9; */
+    background: #FFF;
+}
+.comment-window{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    /* height: 160px; */
+    border: 0.5px solid #D9D9D9;
+    border-radius: 10px;
+    margin-top: 15px;
+
+}
+.comment-avatar{
+    margin: 21px 14px;
+}
+.comment-title{
+    margin-left: 15px;
+    color: #777;
+    font-size: 14px;
+    font-weight: 400;
+}
+.comment-line{
+    max-width:342px;
+     margin-bottom: 20px;
+     float: left;
+     margin-left: 75px;
+
+
+}
+.download-btn{
+    background-color: #1890FF;
+    color: #FFF;
+    border-radius: 0px;
+    float: right;
+    margin-top: -30px;
+}
