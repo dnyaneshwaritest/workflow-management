@@ -66,13 +66,13 @@ const columns = [
       title: 'Raised By',
       dataIndex: 'raisdeby',
       key: 'raisdeby',
-      // render: (raisdeby)=>
-      // <span>{raisdeby}</span>,
-      // onHeadCell: ()=>({
-      //   onClick : () =>{
-      //     setShowCheckboxes(true);
-      //   }
-      // })
+      render: (raisdeby)=>
+      <span>{raisdeby}</span>,
+      onHeadCell: ()=>({
+        onClick : () =>{
+          setShowCheckboxes(true);
+        }
+      })
       // sorter: (a, b) => a.raisdeby - b.raisdeby,
     },
     {
@@ -228,14 +228,14 @@ const columns = [
     }}
         
       />
-      {/* {showCheckboxes &&(
+      {showCheckboxes &&(
         <div>
           <Checkbox>Darlene</Checkbox>
           <Checkbox>Floyd</Checkbox>
           <Checkbox>Angela</Checkbox>
           <Checkbox>Benny</Checkbox>
         </div>
-        )} */}
+        )}
       </div>
       <nav style={{float:"right"}}>
         <ul className="pagination">
