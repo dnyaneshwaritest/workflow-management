@@ -10,8 +10,8 @@ const {Search, TextArea} = Input;
 function IssueReport (){
     
     return (
-        <div>
-            <h4>Bug Report</h4>
+        <div >
+            <h4 className="form-heading">Bug Report</h4>
             <Button className="download-btn">Download</Button>
            <div className="bug-form">
            <Row >

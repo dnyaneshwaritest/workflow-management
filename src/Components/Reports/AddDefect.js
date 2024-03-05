@@ -35,7 +35,9 @@ const AddDefect = () => {
           maxWidth: "100%",
           maxheight:"100%",
           background:"white",
-          paddingLeft:"20%"
+          paddingLeft:"20%",
+          marginTop:"1.5%",
+          paddingTop:"2%"
           
           
         }}

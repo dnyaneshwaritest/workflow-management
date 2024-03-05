@@ -1,6 +1,13 @@
+.issue-list{
+    max-height: 930%;
+    background-color: white;
+    padding: 14px;
+    margin-top: 12px;
+    text-align: right;
+    
+}
 .table-data{
-    /* position:absolute; */
-    /* display: inline-block; */
+   
     width: fit-content;
     /* max-width: 100%; */
     /* max-width: fit-content; */
@@ -10,11 +17,13 @@
 }
 .table-header{
     margin-bottom: 15px;
+    padding-left: -20px;
       
 }
 .dropdown-menu{
-    margin-left: 15px;
+    /* margin-left: 15px; */
     float:right;
+    cursor: pointer;
     
 }
 .menu-button{
@@ -23,24 +32,28 @@
     background-color: #1890FF;
 }
 .pegination{
-    float: right;
+    /* float: right; */
+   
 }
 .page-item{
     display: inline-block;
     border: 1px solid gray;
     margin: 4px;
     cursor: pointer;
+    background: white;
+    /* height: 20%; */
     /* padding: 6px 15px; */
-    
 }
 .page-link:active{
     color: #1890FF;
+    
 }
 .page-link{
     color:black;
     float: right; 
     padding: 6px 12px;
     text-decoration: none;
+    
 }
 
 

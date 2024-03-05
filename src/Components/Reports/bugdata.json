@@ -1,6 +1,6 @@
 [
     {
-        "defectid": "TrackCode 99",
+        "defectid": "TrackCode 91",
         "bugtitles":"Two Factor Authentication (2FA) OTP validationfailuer",
         "bugdescription": "Issue in Reset Password",
         "raisdeby":"Darlene",
@@ -14,7 +14,7 @@
     },
     {
         "defectid": "TrackCode 99",
-        "bugtitles":"Two Factor Authentication (2FA) OTP validationfailuer",
+        "bugtitles":"XYZ",
         "bugdescription": "Issue in Reset Password",
         "raisdeby":"Darlene",
         "severity": ["Critical"],
@@ -40,7 +40,7 @@
     },
     {
         "defectid": "TrackCode 99",
-        "bugtitles":"Two Factor Authentication (2FA) OTP validationfailuer",
+        "bugtitles":"ABC",
         "bugdescription": "Issue in Reset Password",
         "raisdeby":"Darlene",
         "severity": ["Medium"],
@@ -55,12 +55,12 @@
         "defectid": "TrackCode 99",
         "bugtitles":"Two Factor Authentication (2FA) OTP validationfailuer",
         "bugdescription": "Issue in Reset Password",
-        "raisdeby":"Darlene",
+        "raisdeby":"Floyd",
         "severity": ["Low"],
         "Priority":"Medium",
         "status": "Open",
         "product":["HRMS"],
-        "assigneeto": "Angela Moss",
+        "assigneeto": "Mob",
         "attachment": "Link",
         "module": "Design"
     },
@@ -107,7 +107,7 @@
         "defectid": "TrackCode 99",
         "bugtitles":"Two Factor Authentication (2FA) OTP validationfailuer",
         "bugdescription": "Issue in Reset Password",
-        "raisdeby":"Darlene",
+        "raisdeby":"Benny",
         "severity": ["Medium"],
         "Priority":"Medium",
         "status": "Open",

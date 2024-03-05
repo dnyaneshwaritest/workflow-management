@@ -9,7 +9,7 @@ import "./BugManagement.css";
 
 function BugManagement (){
     return(
-        <div >
+        <div className="breadcrumb">
              <Breadcrumb>
     <Breadcrumb.Item>Home</Breadcrumb.Item>
     <Breadcrumb.Item>
