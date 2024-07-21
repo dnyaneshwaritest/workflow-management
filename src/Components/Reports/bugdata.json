@@ -5,12 +5,12 @@
         "bugdescription": "Issue in Reset Password",
         "raisdeby":"Darlene",
         "severity": ["Low"],
-        "Priority":"Medium",
-        "status": "Open",
-        "product":["Procurment"],
+        "Priority":"Critical",
+        "status": "In Process",
+        "product":["Procurement"],
         "assigneeto": "Angela Moss",
         "attachment": "Link",
-        "module": "Design"
+        "module": "Designers"
     },
     {
         "defectid": "TrackCode 99",
@@ -19,11 +19,11 @@
         "raisdeby":"Darlene",
         "severity": ["Critical"],
         "Priority":"Medium",
-        "status": "Open",
+        "status": "Reopen",
         "product":["App Kube"],
         "assigneeto": "Angela Moss",
         "attachment": "Link",
-        "module": "Design"
+        "module": "Backend"
     },
     {
         "defectid": "TrackCode 99",
@@ -33,10 +33,10 @@
         "severity": ["High"],
         "Priority":"Medium",
         "status": "Open",
-        "product":["Procurment"],
+        "product":["Procurement"],
         "assigneeto": "Angela Moss",
         "attachment": "Link",
-        "module": "Design"
+        "module": "Designers"
     },
     {
         "defectid": "TrackCode 99",
@@ -49,7 +49,7 @@
         "product":["App Kube"],
         "assigneeto": "Angela Moss",
         "attachment": "Link",
-        "module": "Design"
+        "module": "Backend"
     },
     {
         "defectid": "TrackCode 99",
@@ -62,7 +62,7 @@
         "product":["HRMS"],
         "assigneeto": "Mob",
         "attachment": "Link",
-        "module": "Design"
+        "module": "Designers"
     },
     {
         "defectid": "TrackCode 99",
@@ -75,7 +75,7 @@
         "product":["App Kube"],
         "assigneeto": "Angela Moss",
         "attachment": "Link",
-        "module": "Design"
+        "module": "Fronted"
     },
     {
         "defectid": "TrackCode 99",
@@ -85,10 +85,10 @@
         "severity": ["High"],
         "Priority":"Medium",
         "status": "Open",
-        "product":["Procurment"],
+        "product":["Procurement"],
         "assigneeto": "Angela Moss",
         "attachment": "Link",
-        "module": "Design"
+        "module": "Backend"
     },
     {
         "defectid": "TrackCode 99",
@@ -98,10 +98,10 @@
         "severity": ["High"],
         "Priority":"Medium",
         "status": "Open",
-        "product":["Procurment"],
+        "product":["Procurement"],
         "assigneeto": "Angela Moss",
         "attachment": "Link",
-        "module": "Design"
+        "module": "Designers"
     },
     {
         "defectid": "TrackCode 99",
@@ -114,6 +114,6 @@
         "product":["HRMS"],
         "assigneeto": "Angela Moss",
         "attachment": "Link",
-        "module": "Design"
+        "module": "Fronted"
     }
 ]

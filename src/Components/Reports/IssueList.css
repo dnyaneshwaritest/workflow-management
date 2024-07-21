@@ -31,10 +31,7 @@
     float:right;
     background-color: #1890FF;
 }
-.pegination{
-    /* float: right; */
-   
-}
+
 .page-item{
     display: inline-block;
     border: 1px solid gray;
@@ -54,6 +51,28 @@
     padding: 6px 12px;
     text-decoration: none;
     
+}
+.issue-raised-dropdown{
+    /* color: rgba(0, 0, 0, 0.25); */
+    font-family: Roboto;
+    font-size: 14px;
+    width: 100px;
+    margin-bottom: -10px;
+    padding-left: 0px;
+    padding: 0px;
+}
+
+.issue-raised-dropdown-divider{
+    margin-top:2px;
+    color: #C1C1C1;
+    margin-bottom: 8px;
+
+}
+.ant-dropdown-menu-item-selected:hover{
+    background-color: transparent;
+}
+.issue-raised-dropdown-close{
+    color:  rgba(0, 0, 0, 0.25);
 }
 
 

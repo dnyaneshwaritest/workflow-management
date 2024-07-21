@@ -74,10 +74,11 @@ import IssueReport from "./Components/Reports/IssueReport";
         <Layout> 
           <Content className="bug-content">           
             <BugManagement/>
+           
             <Routes>
             
-              <Route exact path="/adddefect"  element={<AddDefect />}  ></Route>
-              <Route path="/issuelist" element={<IssueList/>}></Route>
+              <Route exact path="/issueList/adddefect"  element={<AddDefect />}  ></Route>
+              <Route path="/allbugs" element={<IssueList/>}></Route>
               <Route path="/issuereport" element={<IssueReport/>}></Route>
               
             </Routes>
